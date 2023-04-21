@@ -43,7 +43,7 @@ a{
     margin-left: 20px;
 }
 
-button{
+.sign-up button{
     width: 54px;
     height: 14px;
     left: 1204px;
@@ -88,3 +88,139 @@ button{
     margin-top: -70px;
     margin-left: -20px;
 }
+
+.titulo h1{
+font-family: 'Slackey';
+position: absolute;
+width: 614px;
+height: 195px;
+left: 653px;
+top: 140px;
+font-family: 'Slackey';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 65px;
+color: #000958;
+}
+
+.titulo p {
+position: absolute;
+width: 482px;
+height: 60px;
+left: 653px;
+top: 369px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+color: #656689;
+}
+
+.boton button {
+position: absolute;
+width: 142px;
+height: 60px;
+left: 653px;
+top: 478px;
+background: #FF5B2E;
+box-shadow: 0px 13px 26px -8px rgba(255, 91, 46, 0.42);
+border-radius: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.boton {
+    display: flex;
+    
+}
+
+#img2, #img2, #img3, #img4{
+    margin-left: -25px;
+}
+
+.elipseFinal{
+    display: inline-flex;
+    margin-left: -25px;
+}
+
+#img6 {
+    margin-left: -50px;
+    margin-top: 4px;
+}
+
+#mas7 {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+color: #FFFFFF;
+margin-left: -34px;
+margin-top: 22px;
+}
+
+.usuarios {
+position: absolute;
+left: 851px;
+top: 477px;
+box-sizing: border-box;
+}
+
+.inofi-elip {
+    position: absolute;
+    width: 100.72px;
+    height: 100.72px;
+    left: 1304.72px;
+    top: 496px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#elip19-1{
+ position: relative;
+ top: -97px;
+ right: 7px;
+}
+
+#elip19-2{
+    position: relative;
+    top: -193px;
+    right: 14px;
+   }
+
+.titulo-2{
+    display: flex;
+}
+
+.titulo-2 h1 {
+    position: absolute;
+    width: 334px;
+    height: 62px;
+    left: 693px;
+    top: 600px;
+    font-family: 'Slackey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #656689;
+}
+
+.titulo-2 img {
+    position: absolute;
+    width: 334px;
+    height: 62px;
+    left: 500px;
+    top: 600px;
+}
+  
+
+
+
