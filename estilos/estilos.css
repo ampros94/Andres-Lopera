@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cabecera{
+}
+
+.logo{
+    position: absolute;
+    width: 73px;
+    height: 23px;
+    left: 148px;
+    top: 29px;
+    
+    font-family: 'Slackey';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 27px;    
+    text-align: center;
+    color: #000000;    
+}
+
+.menu{
+    display: flex;
+    position: absolute;
+    width: 48px;
+    height: 14px;
+    left: 474px;
+    top: 34px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 14px;
+    color: #000958;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu a{
+    margin-left: 20px;
+}
+
+button{
+    width: 54px;
+    height: 14px;
+    left: 1204px;
+    top: 34px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: #000958;
+    box-sizing: border-box;
+    position: absolute;
+    width: 117px;
+    height: 50px;
+    left: 1173px;
+    top: 16px;
+    opacity: 0.7;
+    border: 1px solid #000958;
+    border-radius: 5px;
+}
+
+.contenedor1{
+    padding-top: 90px;
+}
+
+.contimg {
+    display: flex;
+    position: relative;
+  }
+  
+  .contimg .imagen1 {
+    flex: 1;
+    z-index: 1;
+  }
+  
+  .contimg .imagen2.overlay {
+    position: absolute;
+
+    top: 50px;
+    left: -50px;
+    z-index: 2;
+  }
